@@ -95,6 +95,7 @@ ANTHROPIC_API_KEY= # For Claude
 	- TWITTER_INTERVAL_MIN / TWITTER_INTERVAL_MAX
 		- 위에 정해진 시간으로 트위터 포스팅을 한다
 - Anthropic(Claude AI)
+        - https://console.anthropic.com/ 여기서 가입 및 API 키 발급
 	- Claude는 $10 또는 $5 정도만 넣어도 설정을 충분히 사용할 수 있다.
 	- 돈 아낀다고 로컬_라마로 할 생각 하지 말자, 안돌아간다
 
