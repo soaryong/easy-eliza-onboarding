@@ -42,7 +42,7 @@ cd eliza
 ```js
 {
     "name": "tate",
-    "clients": [],
+    "clients": ["twitter"],
     "modelProvider": "anthropic",
     "settings": {
         "secrets": {},
