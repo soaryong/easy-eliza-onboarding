@@ -108,6 +108,10 @@ pnpm i #오류가 난 경우 아래 명령어를 통해 진행한다.
 pnpm build
 pnpm start
 # 로컬에서 개발하며 돌릴 때는 pnpm dev로도 활용한다.
+# pnpm dev
+# 캐릭터 설정은 다음처럼 한다.
+# pnpm start --characters="./characters/tate.character.json"
+
 ```
 위 내용까지 실행하면 기본 캐릭터 / 설정으로 eliza는 돌아간다.
 실행 하자마자 포스팅 되는 것을 확인하고, 풀링 하는 로그를 확인 할 수 있다
